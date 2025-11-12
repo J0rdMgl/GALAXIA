@@ -1,0 +1,32 @@
+Uri: https://bcodestorague.anteroteobaldob.workers.dev/share/anteroteobaldob_gmail_com/AUDIO/en saturno.mp3
+File Name: C:\Users\user\Downloads\Nueva carpeta\htmlcssjsbecod.netlify.app\share\anteroteobaldob_gmail_com\AUDIO\en saturno.mp3
+Content Type: audio/mpeg
+
+Uri: https://bcodestorague.anteroteobaldob.workers.dev/share/anteroteobaldob_gmail_com/GIF/gatito.gif
+File Name: C:\Users\user\Downloads\Nueva carpeta\htmlcssjsbecod.netlify.app\share\anteroteobaldob_gmail_com\GIF\gatito.gif
+Content Type: image/gif
+
+Uri: https://bcodestorague.anteroteobaldob.workers.dev/share/anteroteobaldob_gmail_com/GIF/Gatito1.gif
+File Name: C:\Users\user\Downloads\Nueva carpeta\htmlcssjsbecod.netlify.app\share\anteroteobaldob_gmail_com\GIF\Gatito1.gif
+Content Type: image/gif
+
+Uri: https://bcodestorague.anteroteobaldob.workers.dev/share/anteroteobaldob_gmail_com/GIF/Gatitosi.gif
+File Name: C:\Users\user\Downloads\Nueva carpeta\htmlcssjsbecod.netlify.app\share\anteroteobaldob_gmail_com\GIF\Gatitosi.gif
+Content Type: image/gif
+
+Uri: https://bcodestorague.anteroteobaldob.workers.dev/share/anteroteobaldob_gmail_com/GIF/img.gif
+File Name: C:\Users\user\Downloads\Nueva carpeta\htmlcssjsbecod.netlify.app\share\anteroteobaldob_gmail_com\GIF\img.gif
+Content Type: image/gif
+
+Uri: https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.min.js
+File Name: C:\Users\user\Downloads\Nueva carpeta\htmlcssjsbecod.netlify.app\npm\three@0.128.0\examples\js\controls\OrbitControls.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js
+File Name: C:\Users\user\Downloads\Nueva carpeta\htmlcssjsbecod.netlify.app\ajax\libs\three.js\r128\three.min.js
+Content Type: application/javascript
+
+Uri: https://htmlcssjsbecod.netlify.app/galaxia-de-amor/
+File Name: C:\Users\user\Downloads\Nueva carpeta\htmlcssjsbecod.netlify.app\galaxia-de-amor\index.htm
+Content Type: text/html
+
